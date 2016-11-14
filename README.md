@@ -75,7 +75,7 @@ This employee also needs to pay taxes
 Calculation rules:
  * Personal Allowance: Any amount of money earned up to £11,000.00.
  * Any amount of money earned below a gross annual salary of £11,000.00 is not taxed.
- * "Tax free allowance" on a salary slip is equal to Personal Allowance didvided by 12.
+ * "Tax free allowance" on a salary slip is equal to Personal Allowance divided by 12.
  * The annual Taxable income: Any amount of money earned above a gross annual salary of £11,000.00.
  * "Taxable income" on a salary slip is equal to the annual Taxable income divided by 12. 
  * The annual Tax Payable: 20% of the annual Taxable income.
