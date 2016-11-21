@@ -1,0 +1,7 @@
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\bin\Debug\SalaryslipKata.Test.dll
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\bin\Debug\SalaryslipKata.Test.pdb
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\bin\Debug\nunit.framework.dll
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\bin\Debug\nunit.framework.xml
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\obj\Debug\SalaryslipKata.Test.csprojResolveAssemblyReference.cache
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\obj\Debug\SalaryslipKata.Test.dll
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Test\obj\Debug\SalaryslipKata.Test.pdb
