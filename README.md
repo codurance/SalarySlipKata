@@ -11,13 +11,23 @@ Salary slip kata
 - Salary slip generator should pass an employee with its Employee Id, Employee Name and Annual Gross Salary
 - Salary slip should contain the Employee ID, Employee Name, Gross Salary, National Insurance contributions, Tax-free allowance, Taxable income and Tax payable for the month
 - The entry point should be the following interface, which you can not change:
-  ```java
+
+Java: 
+```java
 
       public class SalarySlipGenerator {
         public SalarySlip generateFor(Employee employee);
       }
 
-  ```
+```
+
+C#:
+```csharp
+    public class SalarySlipGenerator
+    {
+        public SalarySlip GenerateFor(Employee employee);
+    }
+```
 
 You can, however, add **private** methods and fields to the `SalarySlipGenerator` class, change the constructor, and add extra classes.
 
