@@ -1,0 +1,5 @@
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Src\bin\Debug\SalaryslipKata.Src.dll
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Src\bin\Debug\SalaryslipKata.Src.pdb
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Src\obj\Debug\SalaryslipKata.Src.csprojResolveAssemblyReference.cache
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Src\obj\Debug\SalaryslipKata.Src.dll
+C:\Users\Halima\Documents\GitHub\codurance\SalarySlipKata\csharp\SalaryslipKata\SalaryslipKata\SalaryslipKata.Src\obj\Debug\SalaryslipKata.Src.pdb
