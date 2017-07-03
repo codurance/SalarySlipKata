@@ -55,11 +55,11 @@ This is the most basic case.
            Gross Salary: £416.67
 
 Calculation rules:
- * Monthly Gross Salary: The monthly gross salary is the employee's annual gross salary divided by 12
+ * "Gross Salary" on a salary slip is equal to the employee's annual gross salary divided by 12.
 
 #### Iteration 2: for an annual gross salary of £9,060.00
 
-Here we introduce the National Insurance contribution
+Here we introduce the National Insurance contributions
 
   <p>The monthly salary slip should contain the below:</p>
 
@@ -69,7 +69,8 @@ Here we introduce the National Insurance contribution
            National Insurance contributions: £10.00
 
 Calculation rules:
- * National Insurance contributions: Any amount of money earned above a gross annual salary of £8,060.00 is subject to a National Insurance contribution of 12%
+ * the annual National Insurance (basic contributions): 12% of any amount of money earned above a gross annual salary of £8,060.00.
+ * "National Insurance contributions" on a salary slip is equal to the annual National Insurance (basic contributions) divided by 12.
 
 #### Iteration 3: for an annual gross salary of £12,000.00
 
@@ -86,7 +87,13 @@ This employee also needs to pay taxes
            Tax Payable: £16.67
 
 Calculation rules:
- * Taxable income: Any amount of money earned above a gross annual salary of £11,000.00 is taxed at 20%
+ * Personal Allowance: Any amount of money earned up to £11,000.00.
+ * Any amount of money earned below a gross annual salary of £11,000.00 is not taxed.
+ * "Tax free allowance" on a salary slip is equal to Personal Allowance divided by 12.
+ * The annual Taxable income: Any amount of money earned above a gross annual salary of £11,000.00.
+ * "Taxable income" on a salary slip is equal to the annual Taxable income divided by 12. 
+ * The annual Tax Payable: 20% of the annual Taxable income.
+ * "Tax Payable" on a salary slip is equal to the annual Tax Payable divided by 12.
 
 #### Iteration 4: for an annual gross salary of £45,000.00
 
@@ -103,8 +110,12 @@ This employee pays a higher band of National Insurance and Income Tax.
            Tax Payable: £600.00
 
 Calculation rules:
- * Taxable income (higher rate): Any amount of money earned above a gross annual salary of £43,000.00 is taxed at 40%
- * National Insurance (higher contributions): Any amount of money earned above a gross annual salary of £43,000.00 is only subject to a 2% NI contribution
+ * the annual Tax Payable (basic rate): 20% of any amount of money earned between a gross annual salary of £11,000.00 and $43,000.00.
+ * the annual Tax Payable (higher rate): 40% of any amount of money earned above a gross annual salary of £43,000.00.
+ * "Tax Payable" on a salary slip is equal to the sum of the annual Tax Payable (basic rate) and the annual Tax Payable (higher rate) divided by 12.
+ * the annual National Insurance (basic contributions): 12% of any amount of money earned between a gross annual salary of £8,060.00 and £43,000.00.
+ * the annual National Insurance (higher contributions): 2% of any amount of money earned above a gross annual salary of £43,000.00.
+ * "National Insurance contributions" on a salary slip is equal to the sum of the annual National Insurance (basic contributions) and the annual National Insurance (higher contributions) divided by 12.
 
 #### Iteration 5: for annual gross salaries of £101,000.00; £111,000.00; £122,000.00 and £150,000.00
 
@@ -166,7 +177,7 @@ The employee goes into the additional rate band.
 
 
 Calculation rules:
- * Income tax (additional rate band) : Any amount of money earned above a gross annual salary of £150,000.00 is taxed at 45%
+ * the annual Tax Payable (additional rate): 45% of any amount of money earned above a gross annual salary of £150,000.00.
 
 
 ## Details on calculation rules
