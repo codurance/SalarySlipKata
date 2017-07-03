@@ -29,6 +29,10 @@ C#:
     }
 ```
 
+JavaScript
+```javascript
+    function generateSalarySlipFor({employeeId, employeeName, annualGrossSalary})
+```
 You can, however, add **private** methods and fields to the `SalarySlipGenerator` class, change the constructor, and add extra classes.
 
 ## Iterations
